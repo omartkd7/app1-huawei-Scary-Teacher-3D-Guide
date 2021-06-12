@@ -26,10 +26,10 @@
     "mode_ads_rewarded" : "admob",
     "mode_button_ads_action" : "0",
     "unity" : {
-      "unity_app_id" : "",
-      "unity_banner_id" : "",
-      "unity_interstitial_id" : "",
-      "unity_rewarded_id" : ""
+      "unity_app_id" : "4167518",
+      "unity_banner_id" : "banner",
+      "unity_interstitial_id" : "interstital",
+      "unity_rewarded_id" : "rewarded"
     },
     "update" : {
       "enable_update_closed" : true,
