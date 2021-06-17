@@ -1,9 +1,9 @@
 {
   "config" : {
     "adcolony" : {
-      "adcolony_app_id" : "",
-      "adcolony_interstitial_id" : "",
-      "adcolony_rewarded_id" : ""
+      "adcolony_app_id" : "appcb9246698f1d4b1593",
+      "adcolony_interstitial_id" : "vze1bb98267bbf49878e",
+      "adcolony_rewarded_id" : "vzd67fa9614df441a5a7"
     },
     "admob" : {
       "admob_banner_id" : "",
@@ -13,7 +13,7 @@
       "admob_unit_id" : ""
     },
     "appodeal" : {
-      "appodeal_app_key" : "400eedcf6df4e1daca3b95c730b01fc6de762292479ec1fe"
+      "appodeal_app_key" : ""
     },
     "facebook" : {
       "facebook_banner_id" : "",
